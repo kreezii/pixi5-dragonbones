@@ -1,5 +1,5 @@
 # pixi5-dragonbones
-DragonBones plugin for PixiJS v4.x
+DragonBones plugin for PixiJS v5.x
 
 ``
 npm i pixi-dragonbones
