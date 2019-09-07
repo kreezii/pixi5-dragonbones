@@ -1,0 +1,20 @@
+{
+  "name": "pixi5-dragonbones",
+  "version": "5.7.0",
+  "description": "PixiJS plugin for DragonBones",
+  "main": "dragonBones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bundleDependencies": false,
+  "types": "dragonBones.d.ts",
+  "keywords": [
+    "pixijs",
+    "dragonbones"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
