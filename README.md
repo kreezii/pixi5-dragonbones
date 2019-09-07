@@ -2,7 +2,7 @@
 DragonBones plugin for PixiJS v5.x
 
 ``
-npm i pixi-dragonbones
+npm i pixi5-dragonbones
 ``
 ```javascript
 import * as PIXI from 'pixi.js';
