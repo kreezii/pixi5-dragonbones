@@ -1,8 +1,12 @@
 {
   "name": "pixi5-dragonbones",
-  "version": "5.7.0",
+  "version": "5.7.0-1",
   "description": "PixiJS plugin for DragonBones",
   "main": "dragonBones.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kreezii/pixi-dragonbones"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
